@@ -1,0 +1,12 @@
+C:\vagrant\vagrant1\html\c#\repos\BetaTracker\BetaTracker\bin\Debug\netcoreapp2.0\BetaTracker.deps.json
+C:\vagrant\vagrant1\html\c#\repos\BetaTracker\BetaTracker\bin\Debug\netcoreapp2.0\BetaTracker.runtimeconfig.json
+C:\vagrant\vagrant1\html\c#\repos\BetaTracker\BetaTracker\bin\Debug\netcoreapp2.0\BetaTracker.runtimeconfig.dev.json
+C:\vagrant\vagrant1\html\c#\repos\BetaTracker\BetaTracker\bin\Debug\netcoreapp2.0\BetaTracker.dll
+C:\vagrant\vagrant1\html\c#\repos\BetaTracker\BetaTracker\bin\Debug\netcoreapp2.0\BetaTracker.pdb
+C:\vagrant\vagrant1\html\c#\repos\BetaTracker\BetaTracker\obj\Debug\netcoreapp2.0\BetaTracker.csprojResolveAssemblyReference.cache
+C:\vagrant\vagrant1\html\c#\repos\BetaTracker\BetaTracker\obj\Debug\netcoreapp2.0\BetaTracker.csproj.CoreCompileInputs.cache
+C:\vagrant\vagrant1\html\c#\repos\BetaTracker\BetaTracker\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\vagrant\vagrant1\html\c#\repos\BetaTracker\BetaTracker\obj\Debug\netcoreapp2.0\BetaTracker.AssemblyInfoInputs.cache
+C:\vagrant\vagrant1\html\c#\repos\BetaTracker\BetaTracker\obj\Debug\netcoreapp2.0\BetaTracker.AssemblyInfo.cs
+C:\vagrant\vagrant1\html\c#\repos\BetaTracker\BetaTracker\obj\Debug\netcoreapp2.0\BetaTracker.dll
+C:\vagrant\vagrant1\html\c#\repos\BetaTracker\BetaTracker\obj\Debug\netcoreapp2.0\BetaTracker.pdb
