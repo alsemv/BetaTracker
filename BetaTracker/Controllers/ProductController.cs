@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using BetaTracker.Models.GameModel;
 using BetaTracker.Services.PlaystationStoreServices;
+using BetaTracker.Utilities.Languages;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BetaTracker.Controllers
@@ -12,7 +13,8 @@ namespace BetaTracker.Controllers
     {
         public string index(string lang)
         {
-            return $"product page {lang}";
+            Country country = LanguagesHelper.GetCountry(lang);
+            return $"country: {country.shortName}, language: {country.language}";
         }
 
         [HttpGet]
