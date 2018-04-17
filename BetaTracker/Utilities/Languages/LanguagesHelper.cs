@@ -14,16 +14,14 @@ namespace BetaTracker.Utilities.Languages
             { "ar-es", new Country {shortName = "ar", language = "es"} }
         };
 
+        public static bool checkCountry(string country)
+        {
+            return counties.ContainsKey(country);
+        }
+
         public static Country GetCountry(string lang)
         {
-            try
-            {
-                return counties[lang];
-            }
-            catch (KeyNotFoundException)
-            {
-                return counties["us-en"];
-            }   
+            return counties[lang];
         }
     }
 }
